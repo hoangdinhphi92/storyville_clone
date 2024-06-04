@@ -1,0 +1,1298 @@
+[
+  {
+    "id": 300,
+    "title": "Giang and the Starlight Hero",
+    "content": [
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/300/audio/page-1.mp3",
+          "duration": 21288
+        },
+        "content": "Giang was not an ordinary girl; she had a secret. Every night, under her blanket, she dreamed of flying among the stars with her favorite superhero, Starlight Hero. One bright Saturday morning, as Giang was tidying up her room, a shimmering light dazzled from her closet. Curious, she peeked inside and to her astonishment, Starlight Hero stepped out!",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/300/audio/page-2.mp3",
+          "duration": 17472
+        },
+        "content": "‘Hello, Giang! Today, you will join me on an adventure, and learn what it truly means to be a superhero,’ said Starlight Hero with a warm smile. Giang’s heart leapt with joy. She quickly grabbed her little backpack and followed her hero into the skies, soaring above her little town.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/300/audio/page-3.mp3",
+          "duration": 21984
+        },
+        "content": "Their first stop was Cloud Mountain, where the wind was strong and cold. ‘To fly, you must focus and control your strength,’ explained Starlight Hero. Giang listened carefully and practiced. At first, she wobbled and swayed with the wind, but remembering Starlight Hero's advice, she steadied herself, focusing hard. Soon, she was gliding smoothly beside her hero.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/300/audio/page-4.mp3",
+          "duration": 22488
+        },
+        "content": "Next, they visited the Rainbow River. ‘Here, you must learn patience. Only with patience can you see the true colors of the river,’ Starlight Hero pointed out. Giang sat quietly by the river, waiting. Impatience bubbled inside her, but she remembered her lessons. Gradually, the river transformed, displaying vibrant colors Giang had never seen before. It was beautiful.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/300/audio/page-5.mp3",
+          "duration": 21840
+        },
+        "content": "As the day ended, Starlight Hero and Giang perched atop the tallest building, watching the sunset. ‘Today, you learned self-discipline, Giang. It’s the power to control your actions and emotions, to achieve greater things,’ said Starlight Hero. Giang nodded, understanding how important it was to be disciplined, not only in superhero deeds but also in everyday life.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/300/audio/page-6.mp3",
+          "duration": 22080
+        },
+        "content": "With a hug and a promise to meet again, Starlight Hero disappeared into the night sky. Giang returned home, her heart full of joy and her mind eager to practice all she had learned. That night, under her blanket, she didn’t just dream of flying; she practiced the lessons of self-discipline, knowing that each small step was preparing her for bigger adventures.",
+        "pageNumber": 6
+      }
+    ],
+    "coverImage": "348f219a-0db4-4629-8261-f04a637c8881/stories/300/cover.png",
+    "prompt": "Giang spent a day with their favorite superhero",
+    "theme": "Self-discipline",
+    "wordLength": 500,
+    "summary": "Giang, a bright young girl, spends a magical day with her favorite superhero, learning the importance of self-discipline in mastering her own powers.",
+    "isPrivate": true,
+    "isPremium": true,
+    "isCustom": true,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fantasy",
+    "dominantImageColor": null,
+    "accountId": 803,
+    "status": "completed",
+    "createdAt": "2024-06-02T11:21:49.933Z",
+    "updatedAt": "2024-06-02T11:22:58.250Z",
+    "children": [
+      {
+        "childId": 744,
+        "storyId": 300
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "title": "Hero's Feathered Friend",
+    "content": [
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/audio/page-1.mp3",
+          "duration": 16344
+        },
+        "content": "In the colorful valleys of Aviara, where flowers whispered secrets and trees danced at dawn, lived a brave girl named Hero. With hair as wild as the wind and eyes sparkling with curiosity, Hero spent her days exploring every nook and cranny of her enchanting world.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/audio/page-2.mp3",
+          "duration": 17496
+        },
+        "content": "One sunny morning, while wandering near the Crystal Creek, Hero heard a faint chirping. Following the sound, she found a small bird with a wing as delicate as lace, lying beside the water. The bird’s feathers shimmered with hues of emerald and gold, but it was in pain and couldn't fly.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/audio/page-3.mp3",
+          "duration": 15360
+        },
+        "content": "With a gentle touch, Hero wrapped the bird in a leaf and carried it home. She made a cozy nest from the softest moss and fed the bird nectar from her mother’s garden. Each day, she nurtured her new friend, whom she named Sparkle, hoping it would soar again.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/audio/page-4.mp3",
+          "duration": 15120
+        },
+        "content": "Days turned into weeks, and Sparkle grew stronger. One morning, to Hero’s delight, Sparkle flapped its wings and lifted into the air, fluttering around her head in a grateful dance. 'Thank you, Hero,' Sparkle chirped, 'for your kindness and care.'",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/audio/page-5.mp3",
+          "duration": 15168
+        },
+        "content": "Sparkle led Hero on a flight across Aviara, showing her hidden wonders she’d never seen from the ground: secret groves, rainbow springs, and cloud castles. With each marvel, Hero felt a surge of joy and gratitude for the friendship they shared.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/audio/page-6.mp3",
+          "duration": 14328
+        },
+        "content": "One evening, under a twinkling starlit sky, Sparkle spoke in a soft, magical tone, 'Because of your help, I can fly again. But now, I have a gift for you.' With a graceful swoop, Sparkle dropped a small, shimmering feather into Hero’s hand.",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/audio/page-7.mp3",
+          "duration": 16800
+        },
+        "content": "‘This feather is filled with magic,’ explained Sparkle. ‘Whenever you need help, just whisper my name, and I’ll be there.’ Overwhelmed with gratitude, Hero hugged Sparkle. She realized the true magic was not just in the feather, but in the kindness and love that formed their bond.",
+        "pageNumber": 7
+      },
+      {
+        "audio": {
+          "key": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/audio/page-8.mp3",
+          "duration": 14232
+        },
+        "content": "Hero kept the feather close, knowing it symbolized the beauty of giving and the power of gratitude. And every time she held it, she remembered her feathered friend and the adventures they shared, cherishing them in her heart forever.",
+        "pageNumber": 8
+      }
+    ],
+    "coverImage": "348f219a-0db4-4629-8261-f04a637c8881/stories/299/cover.png",
+    "prompt": "Hero",
+    "theme": "Gratitude",
+    "wordLength": 500,
+    "summary": "In the magical land of Aviara, young Hero discovers a wounded bird and learns the importance of gratitude through their shared adventures.",
+    "isPrivate": true,
+    "isPremium": true,
+    "isCustom": true,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fantasy",
+    "dominantImageColor": null,
+    "accountId": 803,
+    "status": "completed",
+    "createdAt": "2024-06-02T11:21:34.441Z",
+    "updatedAt": "2024-06-02T11:22:26.179Z",
+    "children": [
+      {
+        "childId": 744,
+        "storyId": 299
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "The Quest for the Toy Box Key",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/64/audio/page-1.mp3",
+          "duration": 12096
+        },
+        "content": "As the moon shone through the window, the toys in the playroom began to stir. Teddy, a brave bear with a heart of gold, rallied his friends. 'Tonight,' he declared, 'we find the lost key to the toy box!'",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/64/audio/page-2.mp3",
+          "duration": 14592
+        },
+        "content": "The toys gasped with excitement. Among them were Dolly, a clever doll with bright eyes, and G.I. Joe, a toy soldier with a can-do attitude. 'But the key could be anywhere!' Dolly fretted. G.I. Joe just nodded. 'That's why we'll succeed together!'",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/64/audio/page-3.mp3",
+          "duration": 13152
+        },
+        "content": "Their first challenge was the Mountain of Pillows. 'I can't climb this!' wheezed Wheely, the tiny toy car. Teddy smiled. 'We'll help you!' With a boost from G.I. Joe and a gentle nudge from Dolly, Wheely made it to the top.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/64/audio/page-4.mp3",
+          "duration": 14784
+        },
+        "content": "Next was the Great Rug River, with its treacherous threads and buttons. 'I'll never cross this,' clucked Clucky, the wind-up chicken. 'We're with you,' Teddy reassured. They linked arms, and together they crossed safely, laughing all the while.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/64/audio/page-5.mp3",
+          "duration": 13776
+        },
+        "content": "Finally, they reached the Closet of Shadows, where the key was rumored to be. It was dark and dusty. 'I'm scared,' whispered Dolly. 'We're braver together,' Teddy said, holding her hand. G.I. Joe led the way, and they ventured in.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/64/audio/page-6.mp3",
+          "duration": 13680
+        },
+        "content": "There, behind an old sock, glittered the key! But it was out of reach. 'Form a ladder!' Teddy cried. Stacked on top of each other, they stretched and strained. Wheely, at the very top, just managed to hook the key with his antenna.",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "public/stories/64/audio/page-7.mp3",
+          "duration": 13728
+        },
+        "content": "Triumphant, the toys returned to the toy box and unlocked it with the shiny key. 'We did it, because we did it together!' cheered Dolly. They celebrated their success, knowing that teamwork had been their greatest adventure yet.",
+        "pageNumber": 7
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/64/cover.png",
+    "prompt": "A group of adventurous toys comes to life at night and embarks on a quest to find the long-lost key to the toy box, teaching the importance of teamwork along the way.",
+    "theme": "teamwork",
+    "wordLength": 400,
+    "summary": "A tale of adventurous toys who come to life at night, embarking on a daring quest to find the long-lost key to their toy box. Together, they learn the value of teamwork as they face challenges and overcome obstacles, discovering that they are stronger together than they are apart.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "adventure",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T23:16:41.800Z",
+    "updatedAt": "2024-04-09T23:20:23.482Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 64
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "The Wizard's Friendship Enchantment",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/63/audio/page-1.mp3",
+          "duration": 19032
+        },
+        "content": "In the mystical land of Arcanum, young wizards and witches attended the Grand Academy of Magical Arts. Among them was a diligent wizard named Theo, who loved to learn new spells and enchantments. He could make flowers dance and brooms fly, but there was one thing Theo had yet to understand—the magic of friendship.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/63/audio/page-2.mp3",
+          "duration": 16680
+        },
+        "content": "At the Academy, there was a classmate named Luna who was different from the rest. She dressed in moonlight silver robes and whispered to the stars. The other students didn't understand Luna, and she often sat alone during lunch, her nose buried in ancient spellbooks.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/63/audio/page-3.mp3",
+          "duration": 18144
+        },
+        "content": "One day, Theo saw Luna sitting by herself while the other students laughed and played. Curiosity twinkled in his eyes, and he approached her, asking about the stars she loved so much. Luna's face lit up, and she began to share stories of constellations and celestial dragons. Theo was fascinated.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/63/audio/page-4.mp3",
+          "duration": 17424
+        },
+        "content": "Theo and Luna started spending more time together. He learned that Luna had a special gift for understanding the language of the cosmos, and in return, Theo showed her some friendly spells that made her giggle. Together, they created a magnificent light show that mimicked the night sky.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/63/audio/page-5.mp3",
+          "duration": 20352
+        },
+        "content": "Other students began to notice the magical displays that Theo and Luna created. Their curiosity grew, and one by one, they joined in. Luna taught them about the stars, and soon, the whole class was laughing and learning together. Theo realized that it was his friendship with Luna that had cast the most powerful spell of all.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/63/audio/page-6.mp3",
+          "duration": 18624
+        },
+        "content": "As time went on, Luna was no longer the outcast, but a beloved member of the class. Theo beamed with pride, not just for the spells he had mastered, but for the friendship he had kindled. The Grand Academy of Magical Arts had never been so united, and it was all thanks to the enchantment of friendship.",
+        "pageNumber": 6
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/63/cover.png",
+    "prompt": "A young wizard discovers that true friendship is more powerful than any spell when he helps his outcast classmate find acceptance among their peers.",
+    "theme": "friendship",
+    "wordLength": 400,
+    "summary": "A young wizard named Theo learns that true friendship is the most powerful magic of all when he helps his outcast classmate, Luna, find acceptance among their peers through kindness and understanding.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fiction",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T23:16:22.114Z",
+    "updatedAt": "2024-04-09T23:19:49.296Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 63
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Blossom and the Magic Droplet",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/62/audio/page-1.mp3",
+          "duration": 24480
+        },
+        "content": "Deep in the heart of a shimmering garden, where honeybees hummed and the sun smiled warmly, there bloomed a radiant flower named Blossom. She was the most vibrant among her friends, with petals as soft as silk and a fragrance that could enchant the whole meadow. Blossom loved nothing more than to bask in the sunlight all by herself, keeping all the nourishing rays for her own splendid display.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/62/audio/page-2.mp3",
+          "duration": 25560
+        },
+        "content": "One scorching morning, the sky turned as clear as crystal, and not a single cloud could be seen. The garden's laughter began to wilt as the precious droplets of water became scarce. The flowers, herbs, and trees all started to droop, their colors dimming. All except for Blossom, who had a secret: a single, magic droplet of water that could keep her blooming even in the harshest times, hidden beneath her roots.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/62/audio/page-3.mp3",
+          "duration": 19104
+        },
+        "content": "The smaller flowers whispered with parched voices, 'Oh, how we wish for a sip of water to soothe our thirst!' Blossom heard their pleas, but fear clutched her heart. 'What if I give my magic droplet away and then fade away myself?' she worried. Yet, as she watched her friends suffer, something stirred within her.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/62/audio/page-4.mp3",
+          "duration": 23160
+        },
+        "content": "With a deep breath of courage, Blossom called the garden together. 'Friends,' she declared, 'I have a magic droplet that has kept me lively. But now I see that we are all part of this garden. It's time I share it with you all.' As she released the droplet into the soil, a miracle unfolded. The droplet multiplied, nourishing every root, every leaf, and every petal in the garden.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/62/audio/page-5.mp3",
+          "duration": 21144
+        },
+        "content": "The garden burst back into color, every flower and tree dancing with life once more. Blossom felt a warmth in her heart that outshone even the brightest of her petals. 'Thank you, Blossom!' her friends cheered. 'Your gift has saved us all!' And Blossom learned that by sharing, she didn't just give something away; she helped her whole world bloom.",
+        "pageNumber": 5
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/62/cover.png",
+    "prompt": "In a magical garden, a selfish flower learns the importance of sharing when a drought threatens to wither the entire garden.",
+    "theme": "sharing",
+    "wordLength": 300,
+    "summary": "In a vibrant magical garden, Blossom the flower learns the value of sharing when a drought puts her and her friends at risk. Through teamwork and generosity, they discover that sharing is not only about giving but also about preserving and nurturing the community.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fantasy",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T23:15:48.894Z",
+    "updatedAt": "2024-04-09T23:16:50.730Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 62
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Fizzle the Clumsy Fairy",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/61/audio/page-1.mp3",
+          "duration": 17904
+        },
+        "content": "In the bustling heart of the Enchanted Meadow, there was a fairy named Fizzle. Fizzle was not like the other fairies, who glided gracefully through the air. No, Fizzle had two left wings and a habit of tumbling through the daisies. But what she lacked in elegance, she made up for with her cheerful spirit.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/61/audio/page-2.mp3",
+          "duration": 17904
+        },
+        "content": "The annual Fairy Festival was a flitter of wings away, and Fizzle was determined to dazzle everyone with a spellbinding magic act. She practiced day and night, but her spells often went awry. One time, she tried to turn a pebble into a pearl and ended up with a pile of marshmallows instead!",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/61/audio/page-3.mp3",
+          "duration": 16224
+        },
+        "content": "Despite the setbacks, Fizzle kept trying. She patiently untangled her wings when she got caught in the curtains and chuckled when her attempt at a fireworks spell turned the clouds pink. Her friends admired her persistence and joined in to help her practice.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/61/audio/page-4.mp3",
+          "duration": 17640
+        },
+        "content": "Fizzle learned a new spell, one that would make flowers sing! She was so excited that she rushed the magic words and accidentally made the flowers hiccup instead. It was a silly symphony of hiccups that made everyone giggle, including Fizzle. 'I need to take my time,' she realized.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/61/audio/page-5.mp3",
+          "duration": 17400
+        },
+        "content": "With the festival just a sunrise away, Fizzle took a deep breath and focused. She recited the magic words slowly and with care. To her delight, the flowers began to serenade the meadow with the most beautiful melodies. It was a magical moment that Fizzle had worked so patiently for.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/61/audio/page-6.mp3",
+          "duration": 16416
+        },
+        "content": "The day of the Fairy Festival arrived, and Fizzle's patience paid off. Her act was a hit! Flowers sang, pebbles danced, and even the marshmallows from her earlier mishap made a tasty treat for everyone. Fizzle beamed with pride as her friends cheered and celebrated her success.",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "public/stories/61/audio/page-7.mp3",
+          "duration": 18408
+        },
+        "content": "From that day on, Fizzle became known not just for her clumsiness, but for her perseverance and her patience. She reminded everyone in the Enchanted Meadow that sometimes, the best magic happens when you take your time and believe in yourself, no matter how many tumbles you take along the way.",
+        "pageNumber": 7
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/61/cover.png",
+    "prompt": "A clumsy fairy learns the value of patience and perseverance as she tries to master her magical powers in time for the annual Fairy Festival.",
+    "theme": "Patience",
+    "wordLength": 500,
+    "summary": "Fizzle is a jovial but accident-prone fairy who wants to showcase her magic at the annual Fairy Festival. Through a series of humorous mishaps, Fizzle learns that with patience and perseverance, she can overcome her clumsiness and master her magical abilities.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "humor",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T23:15:11.396Z",
+    "updatedAt": "2024-04-09T23:16:05.953Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 61
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Mira the Mermaid and Delphi the Dolphin",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/60/audio/page-1.mp3",
+          "duration": 20136
+        },
+        "content": "Deep beneath the shimmering blue sea, Mira the Mermaid spent her days exploring and playing among the colorful coral reefs. She loved to giggle and splash, always searching for a new game to play. Nearby, Delphi the Dolphin took his tasks very seriously. He was in charge of teaching the young fish to swim in strong currents.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/60/audio/page-2.mp3",
+          "duration": 19104
+        },
+        "content": "One sunny day, Mira spotted Delphi blowing perfect bubble rings and couldn't resist joining in. She swam through them, laughing joyously. Delphi frowned at first, worried about the distraction. But seeing Mira’s delight, a small smile appeared on his face. 'Do you want to try swimming through them too?' Mira asked.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/60/audio/page-3.mp3",
+          "duration": 16632
+        },
+        "content": "Delphi hesitated but decided to give it a try. To his surprise, he found the playful swimming to be quite enjoyable. 'That was fun!' Delphi exclaimed. 'But now, I must get back to my lessons.' Mira understood but felt a little down. She missed Delphi's unexpected smile.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/60/audio/page-4.mp3",
+          "duration": 15312
+        },
+        "content": "The next day, a strong current swept through the sea, and the young fish found themselves in trouble. Mira wanted to help but wasn’t sure what to do. Delphi, with his knowledge of currents, had a plan but needed more help to guide the fish to safety.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/60/audio/page-5.mp3",
+          "duration": 15648
+        },
+        "content": "Mira and Delphi worked together, combining her playfulness and his seriousness. Mira's laughter and games calmed the fish, making them easier to guide, and Delphi's instructions were clear and helpful. Together, they led the little fish back to calm waters.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/60/audio/page-6.mp3",
+          "duration": 16848
+        },
+        "content": "The sea settled, and the fish were safe once more. Mira and Delphi looked at each other and realized how well they worked as a team. 'Your seriousness is very important,' Mira said. 'And your playfulness brings joy,' Delphi replied. From that day on, they were the best of friends.",
+        "pageNumber": 6
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/60/cover.png",
+    "prompt": "A playful mermaid and a serious dolphin form an unlikely friendship and learn to appreciate each other's differences.",
+    "theme": "Friendship",
+    "wordLength": 400,
+    "summary": "Mira the mermaid, known for her playful nature, and Delphi the dolphin, known for being serious, discover the beauty of their differences and form an unlikely friendship. Together, they learn that by combining their unique qualities, they can achieve so much more and have fun along the way.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fiction",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T23:06:59.218Z",
+    "updatedAt": "2024-04-09T23:07:52.839Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 60
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "The Brave Sorcerer of Silencio",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/59/audio/page-1.mp3",
+          "duration": 18288
+        },
+        "content": "In the quiet kingdom of Silencio, where the rivers whispered and the trees barely rustled, magic was a word spoken only in hushed tones. Eli, a bright-eyed boy with a secret, lived in the heart of Silencio. His secret? A gentle glow in his hands that could make flowers bloom and broken toys mend.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/59/audio/page-2.mp3",
+          "duration": 16968
+        },
+        "content": "Eli loved his magic, but the King had long ago decreed that all things magical were forbidden. 'Magic brings chaos!' he had proclaimed. So, Eli kept his gift hidden, practicing only in the still silence of his room, under the watchful gaze of his little stuffed dragon, Ember.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/59/audio/page-3.mp3",
+          "duration": 16008
+        },
+        "content": "One day, while Eli was out playing with his friends, a cart full of apples overturned in the market square. Amongst the tumbling fruit, a small puppy yelped, trapped under the heavy cart. The townspeople rushed to help, but the cart was too weighty for them to lift.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/59/audio/page-4.mp3",
+          "duration": 14784
+        },
+        "content": "Eli's heart raced as he saw the puppy's frightened eyes. He looked around; everyone was struggling, and the puppy's whimpers grew fainter. Eli felt the familiar warm tingle in his hands. 'I can help,' he thought, 'but what if they see me?'",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/59/audio/page-5.mp3",
+          "duration": 14544
+        },
+        "content": "With a deep breath, remembering the words of his grandmother, 'Integrity is choosing courage over comfort,' Eli stepped forward. He whispered a gentle spell, and as his hands glowed, the cart lifted just enough for the puppy to scamper out.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/59/audio/page-6.mp3",
+          "duration": 22296
+        },
+        "content": "The townspeople gasped, their eyes wide with a mixture of fear and wonder. The King, having seen the act, approached Eli. The boy feared the worst, but to his surprise, the King knelt down. 'You have a gift, young sorcerer,' he said, 'and you used it to save a life. Perhaps it is time for Silencio to embrace magic, with brave hearts like yours leading the way.'",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "public/stories/59/audio/page-7.mp3",
+          "duration": 14400
+        },
+        "content": "From that day on, magic was no longer whispered in Silencio. It danced in the streets and brought joy where there was once fear. And Eli, with Ember by his side, taught others that true magic lies in the courage to do what's right.",
+        "pageNumber": 7
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/59/cover.png",
+    "prompt": "In a kingdom where magic is forbidden, a young sorcerer must choose between hiding his abilities or standing up for what is right.",
+    "theme": "Integrity",
+    "wordLength": 400,
+    "summary": "In the kingdom of Silencio, where magic is forbidden, a young sorcerer named Eli discovers the power of integrity when he must choose between hiding his magical abilities or using them to do what's right.",
+    "isPrivate": false,
+    "isPremium": false,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fantasy",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T23:06:22.959Z",
+    "updatedAt": "2024-04-09T23:09:57.966Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 59
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "The Lonely Ghost and the New Friend",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/58/audio/page-1.mp3",
+          "duration": 17136
+        },
+        "content": "In the heart of a dusty old town, there stood a creaky house that hadn't heard laughter for years. Glenda, the lonely ghost, drifted through its empty halls, wishing for a friend. Her transparent hands could touch nothing, and her whispers were lost in the echoes of the old walls.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/58/audio/page-2.mp3",
+          "duration": 13152
+        },
+        "content": "One sunny day, a moving truck rumbled to a stop outside the house. Glenda peeked through the window and saw a little boy named Benji. His eyes were wide with curiosity, but his shoulders were hunched with worry.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/58/audio/page-3.mp3",
+          "duration": 12672
+        },
+        "content": "As night fell and Benji lay in his new room, shadows danced and floorboards creaked. Benji pulled his blanket over his head, trembling. Glenda saw his fear and remembered how it felt to be scared and alone.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/58/audio/page-4.mp3",
+          "duration": 12264
+        },
+        "content": "With a gentle whoosh, Glenda gathered the shadows and quieted the creaks. She whispered softly, 'Don't be afraid, Benji. I'm here to be your friend.' Benji peeked out and saw Glenda's kind, glowing face.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/58/audio/page-5.mp3",
+          "duration": 13368
+        },
+        "content": "Each night, Glenda shared stories of the house's past, making the old rooms feel warm and alive. Benji listened, his fear slowly turning into fascination. Together, they laughed and played, the house ringing with joy once more.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/58/audio/page-6.mp3",
+          "duration": 13320
+        },
+        "content": "Benji learned that the house wasn't scary, and Glenda learned that by understanding others' feelings, she could connect in ways she never thought possible. They both found a friend in the most unexpected of places.",
+        "pageNumber": 6
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/58/cover.png",
+    "prompt": "A lonely ghost discovers the power of empathy when she befriends a frightened child who moves into her haunted house.",
+    "theme": "Empathy",
+    "wordLength": 300,
+    "summary": "A gentle story about a lonely ghost named Glenda who befriends Benji, a scared little boy who moves into her old, creaky house. Through understanding and compassion, Glenda discovers the power of empathy, helping her make her first friend and teaching Benji to overcome his fears.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fiction",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T23:05:58.271Z",
+    "updatedAt": "2024-04-09T23:06:47.984Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 58
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "The Brave Mouse and the Clever Spider",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/57/audio/page-1.mp3",
+          "duration": 14352
+        },
+        "content": "In the cozy nook of an old garden shed, there lived a brave mouse named Millie. She was known for her quick feet and even quicker wits. But there was one thing in the garden that made her whiskers tremble—a cunning cat named Claws.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/57/audio/page-2.mp3",
+          "duration": 12504
+        },
+        "content": "One sunny day, Millie met a clever spider named Webster. Webster had eight twinkly eyes and the silkiest of webs. 'Hello, Millie!' he said with a wave of his tiny leg. 'Care to join me for a spot of sun?'",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/57/audio/page-3.mp3",
+          "duration": 12648
+        },
+        "content": "As they basked in the warmth, Claws crept into the shed, his eyes fixed on the friends. 'Oh no!' squeaked Millie. 'How will we ever escape?' Webster's eyes sparkled with an idea. 'Together, we can outsmart him!'",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/57/audio/page-4.mp3",
+          "duration": 12240
+        },
+        "content": "'You run left, I'll go right,' Webster instructed. 'Meet me by the old flowerpot.' Millie nodded, and with a dash, they split. Claws, puzzled, paused to decide who to chase. That moment was all they needed.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/57/audio/page-5.mp3",
+          "duration": 11496
+        },
+        "content": "Webster quickly spun a sticky trap near the flowerpot. Millie, with a loud squeak, lured Claws right into the web! The cat's paws got tangled, and he stumbled. 'Now, Millie!' shouted Webster.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/57/audio/page-6.mp3",
+          "duration": 12024
+        },
+        "content": "With a brave leap, Millie darted over Claws and raced up the flowerpot. She pushed it over the edge. THUMP! The pot trapped Claws' tail, and the cat yowled in surprise. 'We did it!' cheered Webster.",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "public/stories/57/audio/page-7.mp3",
+          "duration": 13800
+        },
+        "content": "Millie and Webster high-fived with a paw and a leg. The garden shed was safe once more, thanks to their clever teamwork. 'We're quite the pair, aren't we?' Millie grinned. 'Indeed,' chuckled Webster, 'together, we're unstoppable!'",
+        "pageNumber": 7
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/57/cover.png",
+    "prompt": "Two unlikely allies—a brave mouse and a clever spider—join forces to outsmart a cunning cat and teach the importance of cooperation.",
+    "theme": "Cooperation",
+    "wordLength": 400,
+    "summary": "In this engaging tale, a brave mouse named Millie and a clever spider named Webster teach children the importance of working together. When a cunning cat threatens their home, they must join forces to outsmart the feline and keep their friends safe. Their adventure is a testament to how cooperation can overcome even the trickiest of challenges.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "short story",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T23:05:17.846Z",
+    "updatedAt": "2024-04-09T23:06:18.984Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 57
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "The Brave Dreamweaver",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/56/audio/page-1.mp3",
+          "duration": 18096
+        },
+        "content": "Deep in the heart of the dream-filled realm of Slumberton, where the sky shimmered with the colors of everyone's most cherished dreams, lived Lila, the youngest dreamweaver. Lila had the special gift of spinning dreams into reality, but there was one thing she hadn't yet mastered: her own fears.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/56/audio/page-2.mp3",
+          "duration": 14544
+        },
+        "content": "One starless night, a sinister shadow crept over the village. It was a nightmare, vast and vile, threatening to engulf Slumberton in its dark embrace. The villagers trembled, for no one knew how to fend off such a creature of the night.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/56/audio/page-3.mp3",
+          "duration": 16776
+        },
+        "content": "Lila knew it was up to her to protect her friends and family. With a quivering voice, she whispered, 'Even the smallest light can pierce the darkness.' Gathering her courage, she approached the nightmare, her hands glowing with the warm light of a thousand sweet dreams.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/56/audio/page-4.mp3",
+          "duration": 14784
+        },
+        "content": "As she neared the nightmare, it roared and thrashed, trying to scare Lila away. But she remembered the villagers' happy faces, the laughter of her friends, and the gentle hug of her parents. This gave her strength, and Lila stood her ground.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/56/audio/page-5.mp3",
+          "duration": 14520
+        },
+        "content": "With a brave heart, Lila reached out and touched the nightmare. Her light surged into the darkness, and the nightmare began to shrink. She whispered soft tales of bravery and love, each word weaving stronger spells of comfort and peace.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/56/audio/page-6.mp3",
+          "duration": 17520
+        },
+        "content": "The nightmare, once terrifying and immense, became nothing more than a wisp of smoke, fading away with a final shiver. Slumberton was safe again, and the villagers cheered for their brave dreamweaver. Lila smiled, realizing that courage isn't the absence of fear, but the triumph over it.",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "public/stories/56/audio/page-7.mp3",
+          "duration": 13128
+        },
+        "content": "From that night on, Lila was no longer just a dreamweaver; she was a beacon of hope. She taught everyone that courage comes in many forms, and sometimes, all it takes to be a hero is to face what scares you the most.",
+        "pageNumber": 7
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/56/cover.png",
+    "prompt": "In a land where dreams are made real, a young dreamweaver must confront her fears to save her village from a nightmare that threatens to consume them all.",
+    "theme": "Courage",
+    "wordLength": 400,
+    "summary": "Lila, a young dreamweaver in the land of Slumberton, musters the courage to confront and overcome a terrifying nightmare to save her village and learn the true meaning of bravery.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fantasy",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T10:48:43.030Z",
+    "updatedAt": "2024-04-09T10:49:37.902Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 56
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "The Quest for the Lost Unicorn",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/55/audio/page-1.mp3",
+          "duration": 20136
+        },
+        "content": "In the heart of the Whispering Woods, where the trees swayed with secrets, there lived a group of animal friends. Ellie the Elephant, Rory the Rabbit, and Tilly the Turtle were the best of explorers. One clear night, as stars peppered the sky, they heard a soft whimper. A baby unicorn, Luna, was lost and couldn't find her way back home.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/55/audio/page-2.mp3",
+          "duration": 20424
+        },
+        "content": "The friends knew they had to help. They packed their bags with snacks, a map, and a sprinkle of courage. 'We will find your home, Luna!' they cheered. The journey was not easy; the map led them through twisty trails and over babbling brooks. Rory hopped with excitement, Ellie trumpeted with determination, and Tilly plodded on steadily.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/55/audio/page-3.mp3",
+          "duration": 21432
+        },
+        "content": "By the time the sun stretched its golden fingers across the land, the friends faced their first challenge. A wide river blocked their path, its waters too swift for little Luna to cross. 'We can't give up,' said Ellie. With Rory's guidance, they built a sturdy raft, and together they sailed across the river, with Luna safe in Ellie’s gentle trunk.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/55/audio/page-4.mp3",
+          "duration": 19848
+        },
+        "content": "The Whispering Woods were full of surprises. A mountain loomed ahead, its peak hidden among the clouds. 'It's too high,' whispered Luna, her eyes wide. 'We'll climb it together,' Tilly reassured her. Step by step, they ascended. When Luna grew tired, Rory made her laugh, and Ellie told stories of the stars above to keep her spirits high.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/55/audio/page-5.mp3",
+          "duration": 23016
+        },
+        "content": "At last, they reached the top. Below them, a valley bloomed with rainbow flowers – Luna's home! But the path down was steep and slippery. 'We're almost there,' Ellie encouraged. 'We can't give up now.' With careful steps and helping paws, hooves, and flippers, they made it down. Luna's family welcomed them with joyous neighs, grateful for the safe return of their little one.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/55/audio/page-6.mp3",
+          "duration": 18072
+        },
+        "content": "The friends hugged Luna goodbye, their hearts full of pride. The journey back home was filled with laughter and tales of their grand adventure. They had faced the unknown, worked together, and never given up. And as the stars twinkled above, they knew they could accomplish anything with perseverance.",
+        "pageNumber": 6
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/55/cover.png",
+    "prompt": "A group of adventurous animal friends sets out on a quest to rescue a lost baby unicorn and learns the value of perseverance along the way.",
+    "theme": "Perseverance",
+    "wordLength": 400,
+    "summary": "A brave group of animal friends embarks on an exciting adventure to rescue a lost baby unicorn. Through challenges and setbacks, they learn that with perseverance, they can overcome any obstacle and succeed in their mission.",
+    "isPrivate": false,
+    "isPremium": false,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "adventure",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T09:45:52.750Z",
+    "updatedAt": "2024-04-09T09:47:00.908Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 55
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Antonia's Big Heart",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/54/audio/page-1.mp3",
+          "duration": 16224
+        },
+        "content": "In the bustling city of Antropolis, there lived a little ant named Antonia. Antonia was no ordinary ant; she had the biggest heart in the whole city. Every day, she’d scurry past skyscrapers of pebbles and towers of twigs, always looking for ways to help her fellow ants.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/54/audio/page-2.mp3",
+          "duration": 18888
+        },
+        "content": "Despite their busy lives, Antonia noticed that some ants didn't have enough food to fill their tiny bellies. So, with a determined march, she decided to share her own lunch with those in need. She split her sandwich into teeny, tiny crumbs and handed them out with a smile brighter than the morning dew.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/54/audio/page-3.mp3",
+          "duration": 16560
+        },
+        "content": "As she shared her sandwich, Antonia sang a cheerful tune that echoed through the ant tunnels. 'A crumb for you and a crumb for me, let's share our lunch with giggles and glee!' Her song made the other ants giggle and soon enough, they started sharing their food too.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/54/audio/page-4.mp3",
+          "duration": 14424
+        },
+        "content": "The Queen of Antropolis heard about Antonia’s kindness and was deeply moved. She summoned Antonia to the grand ant hill and declared a new holiday: Generosity Day. On this day, every ant would share something precious with another.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/54/audio/page-5.mp3",
+          "duration": 16272
+        },
+        "content": "The ants began to work together like never before. They built bridges of bark to connect their homes and tunnels wide enough for two ants to walk side by side. They even created a great food pantry where every ant could take what they needed and give what they could.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/54/audio/page-6.mp3",
+          "duration": 16416
+        },
+        "content": "Antonia was overjoyed to see her simple act of sharing turn into a wave of generosity. From the youngest ant to the eldest, everyone pitched in. The city of Antropolis became not just a place where ants lived, but a true community where they cared for each other.",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "public/stories/54/audio/page-7.mp3",
+          "duration": 19536
+        },
+        "content": "And as the sun set behind the hills, casting golden shadows over the thriving ant city, Antonia nestled into her cozy bed of leaves, knowing that her little act of generosity had made a big difference. 'Goodnight, Antropolis,' she whispered. 'May our dreams be filled with kindness and our hearts with the joy of giving.'",
+        "pageNumber": 7
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/54/cover.png",
+    "prompt": "In a bustling city of ants, one ant's act of generosity inspires others to work together to build a stronger community.",
+    "theme": "Generosity",
+    "wordLength": 500,
+    "summary": "Antonia the ant surprises her fellow city-dwelling ants with a heartwarming gesture of generosity. Her kindness sets off a chain reaction, encouraging the entire ant community to work together and build a stronger, more united city.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "humor",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T09:38:01.365Z",
+    "updatedAt": "2024-04-09T09:39:10.759Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 54
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Draco's Fiery Challenge",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/53/audio/page-1.mp3",
+          "duration": 19104
+        },
+        "content": "In the heart of an emerald forest, where trees whispered ancient secrets, lived a young dragon named Draco. Unlike the other dragons who roared with pride, Draco was afraid of his own fire. He would watch his friends soar and breathe flames in awe, but the thought of spewing fire himself filled him with dread.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/53/audio/page-2.mp3",
+          "duration": 17832
+        },
+        "content": "One sunny day, while Draco's friends were playing 'Catch the Sunbeam,' a thick smoke began to fill the air. The forest was on fire! Draco's friends flew in all directions, scared and confused, not knowing what to do. The fire was spreading too fast, and the only way out was blocked by flames.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/53/audio/page-3.mp3",
+          "duration": 13680
+        },
+        "content": "Draco felt the heat on his scales and saw the terror in his friends' eyes. Deep down, he knew he had the power to help. 'I must do something,' he thought. With his heart pounding, Draco took a deep breath and faced his biggest fear.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/53/audio/page-4.mp3",
+          "duration": 15000
+        },
+        "content": "He closed his eyes, thought of his friends, and summoned all his courage. With a mighty roar, Draco breathed out not flames, but a powerful stream of water! He had discovered a rare gift, a water-breathing dragon in a family of fire-breathers.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/53/audio/page-5.mp3",
+          "duration": 16320
+        },
+        "content": "Draco soared above the trees, dousing the flames with his water, saving his friends and the forest. His friends cheered in amazement as Draco extinguished the last ember. The young dragon had not only found his courage but had also revealed his unique talent.",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/53/audio/page-6.mp3",
+          "duration": 17592
+        },
+        "content": "The forest was safe, and Draco was a hero. From that day on, he was no longer afraid of his abilities. He practiced every day, learning to control his water-breathing power, and became the guardian of the forest. His friends admired his bravery and thanked him for saving their home.",
+        "pageNumber": 6
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/53/cover.png",
+    "prompt": "A young dragon, afraid of his own fire-breathing abilities, must find courage to save his friends from an ancient forest fire.",
+    "theme": "Courage",
+    "wordLength": 500,
+    "summary": "Draco, a timid young dragon, must overcome his fear of his fire-breathing powers to save his friends and the ancient forest from a raging fire.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fiction",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T09:37:27.681Z",
+    "updatedAt": "2024-04-09T09:38:17.918Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 53
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Pixie's Promise",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/52/audio/page-1.mp3",
+          "duration": 14592
+        },
+        "content": "In the heart of the Whispering Woods, under the shade of a giggling willow tree, there lived a playful pixie named Piper. With hair as green as fresh grass and wings that shimmered like morning dew, Piper was known for her mischievous tricks.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/52/audio/page-2.mp3",
+          "duration": 15768
+        },
+        "content": "Piper's favorite game was switching the colors of the flowers. The red roses turned blue, the yellow daffodils turned purple, and the entire garden became a tapestry of mismatched hues. The garden fairies would chuckle, shaking their heads at Piper's antics.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/52/audio/page-3.mp3",
+          "duration": 13152
+        },
+        "content": "One day, Piper decided to play a new trick. She whispered a magical spell to make the fruits taste like different fruits. Apples tasted like bananas, strawberries like lemons, and the confusion it caused was quite a sight!",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/52/audio/page-4.mp3",
+          "duration": 13080
+        },
+        "content": "But Piper's tricks soon went too far. The animals of the forest started arguing, the fairies grew frustrated, and the enchanted kingdom was in disarray. The Queen of the Fairies called for Piper to explain herself.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/52/audio/page-5.mp3",
+          "duration": 15384
+        },
+        "content": "With a heavy heart and drooping wings, Piper flew to the Queen's throne. She saw the sadness in the Queen's eyes and knew the trouble she had caused. 'I'm sorry,' Piper said, her voice but a whisper. 'I just wanted to play and make everyone laugh.'",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/52/audio/page-6.mp3",
+          "duration": 14304
+        },
+        "content": "'Piper, your fun turned into folly,' the Queen said kindly. 'Honesty is more important than a moment of laughter. You must promise to be truthful and undo the tricks you have played.' Piper nodded, understanding the weight of her words.",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "public/stories/52/audio/page-7.mp3",
+          "duration": 12936
+        },
+        "content": "With a flick of her wand and a sincere apology, Piper reversed her spells. The fruits returned to their natural tastes, and the flowers bloomed in their rightful colors. The kingdom sighed in relief, and peace was restored.",
+        "pageNumber": 7
+      },
+      {
+        "audio": {
+          "key": "public/stories/52/audio/page-8.mp3",
+          "duration": 13824
+        },
+        "content": "From that day on, Piper was a changed pixie. She still played and danced, but her tricks were harmless, and she always told the truth. The enchanted kingdom thrived, and Piper learned that honesty made her pranks even more delightful.",
+        "pageNumber": 8
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/52/cover.png",
+    "prompt": "A mischievous pixie learns the importance of honesty when her tricks inadvertently cause chaos in the enchanted kingdom.",
+    "theme": "Honesty",
+    "wordLength": 500,
+    "summary": "Piper the pixie loves to play pranks in her enchanted kingdom, but when her mischief goes too far, she learns the value of honesty and the chaos that can ensue from little lies. Piper's journey shows us how being honest can restore peace and harmony.",
+    "isPrivate": false,
+    "isPremium": true,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "fantasy",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T09:36:47.642Z",
+    "updatedAt": "2024-04-09T09:37:44.774Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 52
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "The Quest for the Fountain of Friendship",
+    "content": [
+      {
+        "audio": {
+          "key": "public/stories/51/audio/page-1.mp3",
+          "duration": 20808
+        },
+        "content": "Deep in the heart of the Whispering Woods, Sammy the squirrel flicked his bushy tail with excitement. He had just overheard the birds chirping about a magical place called the Fountain of Friendship. Sammy was eager to find it, but he didn't want to go alone. That's when he spotted Ruby the rabbit, hiding behind a blueberry bush.",
+        "pageNumber": 1
+      },
+      {
+        "audio": {
+          "key": "public/stories/51/audio/page-2.mp3",
+          "duration": 20784
+        },
+        "content": "Sammy approached Ruby with a friendly grin. 'Hello, Ruby! I'm going on an adventure to find the Fountain of Friendship. Would you like to come with me?' Ruby was hesitant. She was shy and not used to going on adventures, but Sammy's enthusiasm was contagious, and she nodded her agreement. Together, they set off into the great unknown.",
+        "pageNumber": 2
+      },
+      {
+        "audio": {
+          "key": "public/stories/51/audio/page-3.mp3",
+          "duration": 20424
+        },
+        "content": "Their journey was filled with laughter and shared stories. Sammy would leap from branch to branch, scouting the path ahead, while Ruby hopped along, her ears twitching with every new sound. They helped each other overcome obstacles, like crossing a murky pond on lily pads and finding their way when the trail twisted and turned.",
+        "pageNumber": 3
+      },
+      {
+        "audio": {
+          "key": "public/stories/51/audio/page-4.mp3",
+          "duration": 20064
+        },
+        "content": "When they reached the edge of a steep cliff, Ruby's knees wobbled with fear. 'I can't jump that far,' she whispered. 'Don't worry,' said Sammy, 'we'll do it together.' With a running start, Sammy leaped, and at the last moment, Ruby gathered all her courage and jumped too. They landed safely on the other side, thanks to their teamwork.",
+        "pageNumber": 4
+      },
+      {
+        "audio": {
+          "key": "public/stories/51/audio/page-5.mp3",
+          "duration": 15528
+        },
+        "content": "As the sun began to set, painting the sky with hues of orange and purple, Sammy and Ruby found themselves in a clearing. There, in the middle, was a sparkling fountain with water that glowed like liquid diamonds. They had found the Fountain of Friendship!",
+        "pageNumber": 5
+      },
+      {
+        "audio": {
+          "key": "public/stories/51/audio/page-6.mp3",
+          "duration": 17784
+        },
+        "content": "The fountain whispered a secret to them: 'True friendship is the greatest adventure of all.' Sammy and Ruby filled a small bottle with the fountain's water, promising to take it back to the Whispering Woods to remind them of their incredible journey and the unbreakable bond they had formed.",
+        "pageNumber": 6
+      },
+      {
+        "audio": {
+          "key": "public/stories/51/audio/page-7.mp3",
+          "duration": 18624
+        },
+        "content": "Sammy and Ruby returned home, their hearts full of joy and their friendship stronger than ever. They shared their story with all the animals in the woods, and the Fountain of Friendship became a symbol of the magic that happens when friends support each other and embark on life's adventures together.",
+        "pageNumber": 7
+      }
+    ],
+    "coverImage": "da4d7dcf-4eff-44fd-9282-5c65013d96b8/stories/51/cover.png",
+    "prompt": "A curious squirrel and a shy rabbit embark on an adventure to find the legendary Fountain of Friendship.",
+    "theme": "Friendship",
+    "wordLength": 500,
+    "summary": "In this enchanting adventure, a curious squirrel named Sammy and a shy rabbit named Ruby set out on a journey to discover the legendary Fountain of Friendship. Along the way, they face challenges and learn the true meaning of friendship.",
+    "isPrivate": false,
+    "isPremium": false,
+    "isCustom": false,
+    "includeChildInStory": true,
+    "hasAudioStory": true,
+    "genre": "adventure",
+    "dominantImageColor": null,
+    "accountId": 57,
+    "status": "completed",
+    "createdAt": "2024-04-09T09:29:42.490Z",
+    "updatedAt": "2024-04-09T09:30:56.611Z",
+    "children": [
+      {
+        "childId": 51,
+        "storyId": 51
+      }
+    ]
+  }
+]

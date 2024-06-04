@@ -1,0 +1,50 @@
+name: storyville_clone
+description: "Storyville application clone"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.6
+
+  # A Flutter package to use fonts from fonts.google.com. Supports HTTP fetching, caching, and asset bundling.
+  google_fonts: ^6.2.1
+
+  # A wrapper around InheritedWidget to make them easier to use and more reusable.
+  provider: ^6.1.2
+
+  # A package provides an easy way to add shimmer effect in Flutter project
+  shimmer: ^3.0.0
+
+  # Flutter library to load and cache network images. Can also be used with placeholder and error widgets.
+  cached_network_image: ^3.3.1
+
+#fluttergen -c pubspec.yaml
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner:
+  flutter_gen_runner:
+
+flutter_gen:
+  output: lib/gen/ # Optional (default: lib/gen/)
+  line_length: 80 # Optional (default: 80)
+
+  # Optional
+  integrations:
+    flutter_svg: true
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/stories.json
+    - assets/images/
